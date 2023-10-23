@@ -129,11 +129,7 @@ VIII.	Algorithm Explanation
 
 The algorithm employs two stacks for efficient handling of operands and operators. It processes the input expression character by character, handling digits, operators, and parentheses appropriately. Operators are applied based on their precedence and associativity, ensuring correct evaluation even in complex expressions containing parentheses. The implementation guarantees accurate results and handles various operator precedence levels.
 
-IX.	Screenshots of the Execution
- 
- 
-
-X. Summary
+IX. Summary
 
 In summary, the implemented stack-based calculator effectively evaluates arithmetic expressions by employing a stack-based algorithm. It handles parentheses and different operator precedence levels accurately, ensuring correct results for a wide range of input expressions. The implementation is robust, providing meaningful error messages for invalid expressions, and offering a user-friendly experience.
 
