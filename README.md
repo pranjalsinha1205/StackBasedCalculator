@@ -12,8 +12,6 @@ VI. Stack Implementation Algorithm
 VII. Expression Evaluation Algorithm
 VIII. Algorithm Explanation
 IX. Summary
-X. Bibliography
-XI. Annexure
 
 
 
