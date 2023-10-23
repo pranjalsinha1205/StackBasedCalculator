@@ -11,10 +11,9 @@ V. Input Parsing Algorithm
 VI. Stack Implementation Algorithm
 VII. Expression Evaluation Algorithm
 VIII. Algorithm Explanation
-IX. Screenshots of the Execution 
-X. Summary
-XI. Bibliography
-XII. Annexure
+IX. Summary
+X. Bibliography
+XI. Annexure
 
 
 
